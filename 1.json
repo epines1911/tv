@@ -211,6 +211,14 @@
             "searchable": 1
         },
         {
+            "key": "csp_Ddrk",
+            "name": "💕低端影视",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "click": "ddys.pro;#vjsp > button",
+            "searchable": 1
+        },
+        {
             "key": "csp_NongMing",
             "name": "💕农民影视",
             "type": 3,
@@ -505,6 +513,54 @@
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/哔哩直播.js"
         },
         {
+            "key": "drpy_js_310直播",
+            "name": "💥310直播(体育)",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/310直播.js"
+        },
+        {
+            "key": "drpy_js_88看球",
+            "name": "💥88看球(体育)",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/88看球.js"
+        },
+        {
+            "key": "drpy_js_JRKAN直播",
+            "name": "💥JRKAN直播(体育)",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/JRKAN直播.js"
+        },
+        {
+            "key": "drpy_js_抓饭体育",
+            "name": "💥抓饭体育(体育)",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/抓饭体育.js"
+        },
+        {
             "key": "我的哔哩(js)",
             "name": "💥哔哩合集",
             "type": 3,
@@ -527,6 +583,22 @@
             "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
             "searchable": 1,
             "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/厂长资源.js"
+        },
+        {
+            "key": "低端(js)",
+            "name": "💥低端",
+            "type": 3,
+            "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/ddys.js"
+        },
+        {
+            "key": "两个BT(js)",
+            "name": "💥两个BT",
+            "type": 3,
+            "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/两个BT.js"
         },
         {
             "key": "怡萱动漫(js)",
@@ -998,5 +1070,68 @@
                 "is_play_url="
             ]
         }
+    ],
+    "ads": [
+        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com",
+        "wan.51img1.com",
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
     ]
 }
